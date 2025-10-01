@@ -1,3 +1,4 @@
+## Robotics Control
 ![Quadruped Robot](Quadruped_Robot.gif)
 
 <!--
